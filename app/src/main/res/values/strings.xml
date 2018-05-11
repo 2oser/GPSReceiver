@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">GPSReceiver</string>
+    <string name="altitude">Altitude</string>
+    <string name="speed">Speed</string>
+    <string name="longitude">Longitude</string>
+    <string name="latitude">Latitude</string>
+    <string name="update">update</string>
+    <string name="network">network</string>
+    <string name="satellite">satellite</string>
+    <string name="locationIcon">LOCATION</string>
+</resources>
